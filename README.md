@@ -78,4 +78,4 @@
 
 [x] Directorio /var particionado en partes de 20MB
 
-[ ] Diagrama topologico de la infraestructura armada
+[x] Diagrama topologico de la infraestructura armada
